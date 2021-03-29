@@ -9,7 +9,7 @@ js-standard-style, css and html.
 
 Screenshots:
 
-![App ScreenShot](/Todo Application Screenshot.png)
+![App ScreenShot](/Todo Application ScreenShot.png)
 
 Code Example:
 
